@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS examData(
+    examId TEXT,
+    insoleId TEXT NOT NULL,
+    s1 REAL NOT NULL,
+    s2 REAL NOT NULL,
+    s3 REAL NOT NULL,
+    s4 REAL NOT NULL,
+    s5 REAL NOT NULL,
+    s6 REAL NOT NULL,
+    s7 REAL NOT NULL,
+    s8 REAL NOT NULL,
+    s9 REAL NOT NULL,
+    datetime_ DATETIME NOT NULL
+);

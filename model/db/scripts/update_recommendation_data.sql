@@ -1,0 +1,1 @@
+UPDATE relearnedData SET FINAL_RECOMMENDATION = ? WHERE examId = ?
