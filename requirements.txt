@@ -1,0 +1,11 @@
+fastapi==0.85.1
+fastapi_utils==0.2.1
+matplotlib==3.5.1
+numpy==1.22.3
+pandas==1.4.2
+pydantic==1.9.0
+pyserial==3.5
+requests==2.27.1
+SQLAlchemy==1.4.36
+typing_extensions==4.4.0
+uvicorn==0.17.6
